@@ -4,7 +4,7 @@
 #### flow chart
 
 
-#### source code
+#### source code : https://www.codechef.com/viewsolution/51970749
 
     #include<bits/stdc++.h>
     using namespace std;
